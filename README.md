@@ -8,7 +8,9 @@ git push origin master
 ## Start cmd
 
 For Development: npm run start:dev
+
 For Staging: npm run start:staging
+
 For Production: npm run build:prod && npm run start
 
 ## Project Standard
