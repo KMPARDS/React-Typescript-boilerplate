@@ -1,5 +1,5 @@
 export type themeState = {
-	theme: any;
+  theme: any;
   isDarkMode: boolean;
   toggleTheme: any;
 };

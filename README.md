@@ -1,9 +1,8 @@
 ## Instructions
 
-Clone this template to your folder then run 
+Clone this template to your folder then run
 git remote set origin <your-rep-name>
 git push origin master
-
 
 ## Start cmd
 
@@ -15,17 +14,17 @@ For Production: npm run build:prod && npm run start
 
 ## Project Standard
 
-1.File Type other than component file should be mentioned in file name like  add-to-cart.constant.ts" 
+1.File Type other than component file should be mentioned in file name like add-to-cart.constant.ts"
 
-2.All string literals should be written in separate file-name.constant.ts file and  respective variables should be used in components.
+2.All string literals should be written in separate file-name.constant.ts file and respective variables should be used in components.
 
-3.Use "prop-types" for datatypes while declaring Props 
+3.Use "prop-types" for datatypes while declaring Props
 
 4.Use Context Api to manage User data with localStorage, so that it can be available on demand from any component
 
 5.Create Apis folder and Sub-folders with entity names to call apis
 
-6.Use Loader like spinner for waiting intervals 
+6.Use Loader like spinner for waiting intervals
 
 7.Keep variables in State only when there is need to re-render component on change on respective variable value, if change in value doesn't make difference in with re-render then that variable can be declared outside the constructor
 
@@ -47,4 +46,4 @@ For Production: npm run build:prod && npm run start
 
 16.React Bootstrap recommended if required
 
-17.Ts-lint plugin for vs-code | SublimeLinter and  SublimeLinter-tslint for sublime text prefered# React-Typescript-boilerplate
+17.Ts-lint plugin for vs-code | SublimeLinter and SublimeLinter-tslint for sublime text prefered# React-Typescript-boilerplate

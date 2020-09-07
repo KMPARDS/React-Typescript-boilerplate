@@ -1,8 +1,9 @@
-import React, { useContext } from 'react';
+import React, { useContext } from "react";
 
- 
-export const  Navbar = () => {
-	return <header>
-	<p>Here comes navbar</p>
-	</header>;
-}
+export const Navbar = () => {
+  return (
+    <header>
+      <p>Here comes navbar</p>
+    </header>
+  );
+};

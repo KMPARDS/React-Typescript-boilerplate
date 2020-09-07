@@ -1,1 +1,1 @@
-export { ProgressiveImage } from './ProgressiveImage';
+export { ProgressiveImage } from "./ProgressiveImage";
